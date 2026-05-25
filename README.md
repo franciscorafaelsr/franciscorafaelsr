@@ -43,9 +43,11 @@ Flujo para procesar documentos PDF mediante OCR, segmentación, extracción de m
 
 **Enfoque:** Python, OCR, embeddings, LLMs, bases de datos vectoriales.
 
+## Proyectos privados
+
 ### MiauCheck
 
-Sistema web orientado al seguimiento, organización y análisis de información para cuidado felino, con enfoque en trazabilidad, datos y despliegue moderno.
+Sistema web privado para seguimiento, organización y análisis de información clínica felina, con enfoque en trazabilidad, datos estructurados, arquitectura multiusuario y despliegue con Docker.
 
 **Enfoque:** backend, base de datos, frontend web, Docker, arquitectura multiusuario.
 
