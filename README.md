@@ -2,6 +2,8 @@
 
 **Software Developer | AI Solutions | Data Analysis | Automation | Docker | APIs | RAG**
 
+Abierto a oportunidades en desarrollo de software, IA aplicada, automatización, análisis de datos y backend.
+
 Soy desarrollador de software con experiencia en análisis de datos, automatización, integración de APIs, sistemas web y soluciones basadas en inteligencia artificial. Me interesa construir herramientas prácticas que conecten datos, procesos y modelos de IA para resolver problemas reales.
 
 Actualmente trabajo en proyectos relacionados con agentes de IA, sistemas RAG, procesamiento documental, dashboards, automatización de flujos y despliegue de aplicaciones con Docker.
